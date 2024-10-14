@@ -1,0 +1,37 @@
+[
+    {
+        "fullname":"venkat",
+        "email":"venkat@gmail.com",
+        "password":"Venkat"
+    },
+
+    {
+        "fullname":"sangeetha",
+        "email":"sangeetha@gmail.com",
+        "password":"Sangeetha"
+    },
+
+    {
+        "fullname":"neeraja",
+        "email":"neeraja@gmail.com",
+        "password":"Neeraja"
+    },
+
+    {
+        "fullname":"arfath",
+        "email":"arfath@gmail.com",
+        "password":"Arfath"
+    },
+
+    {
+        "fullname":"thiru",
+        "email":"thiru@gmail.com",
+        "password":"Thiru"
+    },
+
+    {
+        "fullname":"prathap",
+        "email":"prathap@gmail.com",
+        "password":"Prathap"
+    }
+]

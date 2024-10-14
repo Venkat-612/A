@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background-image: url('ASS-5/bg1.jpg');  /* Corrected path and removed extra spaces */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container {
+height: 50px;
+width: 100vw;
+background-color: transparent;
+box-shadow: 0px 2px 10px rgb(0, 0, 0.1);
+border-radius: 8px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 20px;
+}
+
+.btn1, .btn2 {
+background-color: transparent;
+color: whitesmoke;
+font-weight: 600;
+font-size: 16px;
+border-radius: 5px;
+cursor: pointer;
+}
+
+.container a {
+color: #00ff73;
+text-decoration: none;
+}
+
+.form1 {
+display: none;
+background-color: transparent;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+width: 300px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+.form1 h2 {
+text-align: center;
+margin-bottom: 15px;
+}
+
+.form1 input {
+width: 100%;
+padding: 10px;
+margin-bottom: 15px;
+border-radius: 4px;
+border: 1px solid #ccc;
+}
+
+.form1 button {
+width: 100%;
+padding: 10px;
+background-color: #28a745;
+color: white;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+
+.form1 button:hover {
+background-color: #218838;
+}
+
+.message a {
+color: #007bff;
+text-decoration: none;
+}
+
+
+
+
